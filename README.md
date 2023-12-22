@@ -6,6 +6,7 @@ any services offered by the switch or the LAN.
 
 
 The 802.1x roles include:
+
 • Supplicant (Client) .
 
 • Authenticator (Switch)

@@ -5,9 +5,9 @@ authentication server authenticates each workstation that is connected to a swit
 any services offered by the switch or the LAN.
 
 
-The 802.1x roles include:
+### The 802.1x roles include:
 
-    • Supplicant (Client) .
+    • Supplicant (Client) 
 
     • Authenticator (Switch)
 
@@ -15,6 +15,7 @@ The 802.1x roles include:
 
 ### 802.1X Configuration
 802.1X Configuration requires a few basic steps:
+
   Step 1. Enable AAA using the aaa new-model command.
   
   Step 2. Designate the RADIUS server and configure its address and ports.
